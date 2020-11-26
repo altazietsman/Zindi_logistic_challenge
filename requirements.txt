@@ -1,0 +1,10 @@
+#libraries used during model development
+
+numpy
+pandas
+maplotlib
+datetime
+statsmodels
+scipy
+sklearn
+pickle
